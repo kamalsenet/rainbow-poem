@@ -9,3 +9,6 @@ in this state im creating unicorn brach
 apart form main(master) branch 
 i am adding more lines
 unicorn add extra line inside main branch
+main is creating its content
+he doesnt know other branch adding additional content
+its ponnies branch
